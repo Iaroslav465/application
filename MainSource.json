@@ -1,0 +1,53 @@
+{
+    "name": "Iaroslav Nesterov",
+    "subtitle": "I make funny games",
+    "description": "Welcome guys! Here you'll find all of my apps.",
+    "iconURL": "https://drive.google.com/file/d/1PB6cLeEKrXne6kROPOgiLp9AOIP7KqBx/view?usp=sharing",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://linktr.ee/yaroguaracci",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.example.myapp"
+    ],
+    "apps": [
+        {
+            "name": "Never have I ever: Revelations PRO",
+            "bundleIdentifier": "Yaro-Guaracci.Test1",
+            "developerName": "Iaroslav Nesterov",
+            "subtitle": "This unique card game will bring fun and unexpected revelations to any gathering.",
+            "localizedDescription": "Welcome to Never have I ever: Revelations PRO – the digital version of our physical card game. It will uncover the most unexpected stories from your friends! Get to know each other better, answer questions, and enjoy the revelations. The game's rules are simple: players take turns drawing cards with questions. Those who confess to the actions on the card fold a finger and share their story honestly. The first player who folds all 10 fingers must fulfill a wish made by the group. Play and discover who in your circle is hiding the darkest secrets!",
+            "iconURL": "https://drive.google.com/file/d/1wfdwH7IXELzTTb_rIwOjTJoY_GFbvb-D/view?usp=sharing",
+            "tintColor": "#5CA399",
+            "category": "games",
+            "screenshots": [
+                "https://drive.google.com/file/d/1OXz8EOcQuQRkkFQSmas2kT6Z691FCTr2/view?usp=sharing",
+                "https://drive.google.com/file/d/1NF4Mtpt0avSucVdNgvTaxAznSQ_RLpyt/view?usp=sharing",
+                "https://drive.google.com/file/d/1rtCfvRVFZ7lm5PeEVsduQNhFcDoGPnUQ/view?usp=sharing",
+                "https://drive.google.com/file/d/1M_Mxa2dtEs1IqD8TLzUPTJ1YZLrKsy_g/view?usp=sharing"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2024-08-16T07:00:00-08:00",
+                    "size": 20,
+                    "downloadURL": "https://drive.google.com/file/d/1sJQzByRGRkkjwkfX3AwVHkpX9SJcLCMx/view?usp=sharing"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {}
+            }
+        }
+    ],
+    "patreon": {
+        "pledge": 3,
+        "currency": "EUR",
+        "patreonURL": "patreon.com/IaroslavNesterov",
+        "tiers": [
+            "basic"
+        ]
+    }
+}
